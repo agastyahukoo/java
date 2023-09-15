@@ -34,16 +34,12 @@ Ready to begin your Java adventure? Here's how to get started:
 3. **Contribute:**
    We welcome contributions from learners of all levels! If you have something valuable to add, whether it's a new tutorial, a code improvement, or additional resources, please submit a pull request.
 
-4. **Stay Connected:**
-   Join our community on [Slack](https://slack.java-learners.org) to connect with fellow learners, share your experiences, and ask questions.
-
 ## Learning Resources
 
 To complement your exploration of this repository, here are some recommended external resources:
 
 - [Java Documentation](https://docs.oracle.com/en/java/)
 - [Java Tutorials on Oracle](https://docs.oracle.com/javase/tutorial/)
-- [Java Programming for Beginners - YouTube Playlist](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
 
 ## Contribution Guidelines
 
@@ -51,8 +47,7 @@ We encourage you to contribute to this repository by adding your own code sample
 
 ## Feedback
 
-We love to hear your feedback! If you have any suggestions, questions, or ideas on how we can improve this repository, please open an issue or reach out to us on [Slack](https://slack.java-learners.org).
-
+We love to hear your feedback! If you have any suggestions, questions, or ideas on how we can improve this repository.
 ## License
 
 This repository is open-sourced under the [MIT License](LICENSE.md).
