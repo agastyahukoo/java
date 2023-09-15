@@ -1,4 +1,4 @@
-# Welcome to the Java Learning Playground 🚀
+# Welcome to Java!
 
 If you're on a journey to master Java or simply looking to enhance your Java skills, you've come to the right place! This repository is your personal playground, filled with a collection of Java files and resources designed to make your learning experience enjoyable and rewarding.
 
